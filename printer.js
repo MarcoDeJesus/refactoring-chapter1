@@ -1,4 +1,3 @@
-const fs = require('fs');
 var plays = require('./plays.json');
 var invoices = require('./invoices.json');
 
