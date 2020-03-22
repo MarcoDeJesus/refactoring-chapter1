@@ -15,5 +15,48 @@
                 "audience": 40
             }
         ]
+    }, 
+    {
+        "customer": "MarCo",
+        "performances": [
+            {
+                "playID": "hamlet",
+                "audience": 55
+            }
+        ]
+    }, 
+    {
+        "customer": "JennerCo",
+        "performances": [
+            {
+                "playID": "hamlet",
+                "audience": 55
+            },
+            {
+                "playID": "as-like",
+                "audience": 35
+            }
+        ]
+    }, 
+    {
+        "customer": "DavidCo",
+        "performances": [
+            {
+                "playID": "hamlet",
+                "audience": 55
+            },
+            {
+                "playID": "as-like",
+                "audience": 35
+            },
+            {
+                "playID": "othello",
+                "audience": 40
+            },
+            {
+                "playID": "hamlet",
+                "audience": 3
+            }
+        ]
     }
 ]
